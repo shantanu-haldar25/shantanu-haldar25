@@ -1,4 +1,15 @@
+<div align="center">
+  
+  <!-- Animated Typing Headline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+[Your+Name]+%F0%9F%91%8B;Software+Engineer;Data+Analyst;Turning+Data+into+Insights" alt="Typing SVG" />
+  </a>
 
+  <!-- Optional Animated GIF (e.g., coding/matrix animation) -->
+  <br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated coding gif">
+
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/okayyyyyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:efagerg) 
 
