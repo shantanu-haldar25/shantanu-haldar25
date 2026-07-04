@@ -17,3 +17,88 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=shantanu-haldar25&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+__________________________________________________________________________________________________________________________________
+<div align="center">
+  
+  <!-- Animated Typing Headline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+[Your+Name]+%F0%9F%91%8B;Software+Engineer;Data+Analyst;Turning+Data+into+Insights" alt="Typing SVG" />
+  </a>
+
+  <!-- Optional Animated GIF (e.g., coding/matrix animation) -->
+  <br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated coding gif">
+
+</div>
+
+---
+
+## 🚀 About Me
+
+*   **Currently working on:** [Insert Current Project, e.g., building an automated data pipeline]
+*   **Currently learning:** [Insert New Tech, e.g., Advanced Machine Learning, AWS Data Engineering]
+*   **What I do:** Backend development, ETL pipelining, exploratory data analysis, and predictive modeling.
+*   **Ask me about:** Python, SQL optimization, and data visualization.
+*   **Fun fact:** [Insert Fun Fact, e.g., I drink too much coffee while debugging]
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Programming** | Python, SQL, JavaScript, R |
+| **Data & Analytics** | Pandas, NumPy, Scikit-Learn, Tableau, Power BI |
+| **Web Development** | Django, Flask, Node.js, React |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Snowflake |
+| **DevOps & Tools** | Git, Docker, AWS, Jupyter, Linux |
+
+---
+
+## 📊 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **[Project Title 1]** | End-to-end data pipeline analyzing customer churn and retention patterns. | Python, SQL, Tableau | [View Repository](#) |
+| **[Project Title 2]** | Full-stack web application with a live dashboard for tracking market metrics. | React, Django, PostgreSQL | [View Repository](#) |
+| **[Project Title 3]** | Predictive machine learning model forecasting real estate price trends. | Scikit-Learn, Pandas | [View Repository](#) |
+
+---
+
+## 📈 Dynamic GitHub Stats
+
+<div align="center">
+  
+  <!-- Animated Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <br><br>
+  
+  <!-- Animated Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+  <a href="[Your LinkedIn Profile URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="[Your Personal Website URL]">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:[Your Email Address]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
